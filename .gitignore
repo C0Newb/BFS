@@ -1,3 +1,8 @@
+/Web/*
+!/Web/
+
+*.pem
+
 # Logs
 logs
 *.log
